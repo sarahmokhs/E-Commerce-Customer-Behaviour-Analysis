@@ -1,7 +1,7 @@
-# E-Commerce Customer Behavior Analysis
+# E-Commerce Customer Behaviour Analysis
 
 ## Project Overview
-This project analyzes a dataset of ~17,000 e-commerce transactions from a Turkish retail platform to identify growth opportunities and customer behavioral patterns.
+This project analyses a dataset of ~17,000 e-commerce transactions from a Turkish retail platform to identify growth opportunities and customer behavioural patterns.
 
 ## Business Questions to Answer
 1. **Revenue & Seasonality:** Which months and days generate peak revenue?
