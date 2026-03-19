@@ -1,0 +1,7 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# Office Owner Files
+~*
